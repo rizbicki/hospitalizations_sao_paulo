@@ -1,2 +1,2 @@
-# hospitalizations_sao_paulo
+# How many hospitalizations has the COVID-19 vaccination already prevented in São Paulo?"
 Code to generate the analysis of the paper "How many hospitalizations has the COVID-19 vaccination already prevented in São Paulo?", by Rafael Izbicki, Leonardo Bastos, Meyer Izbicki, Hedibert Lopes and Tiago Mendonça (https://www.clinicsjournal.com/article/how-many-hospitalizations-has-the-covid-19-vaccination-already-prevented-in-sao-paulo/?fbclid=IwAR1f_Bc7dnbfQdaNTWWNNRk9djjTcgGdtQ4EGzb6SlKiLHJpsrdlrpXNS3M)
